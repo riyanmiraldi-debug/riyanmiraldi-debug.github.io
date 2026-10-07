@@ -1,4 +1,3 @@
-<audio controls>
-  <source src="nama-folder/musik.mp3" type="audio/mpeg">
-  Browser Anda tidak mendukung pemutar audio.
-</audio>
+git add .
+git commit -m "Menambahkan file musik"
+git push origin main
